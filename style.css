@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+#div1{
+    background-color: blue;
+}
+
+
+.mm{
+    background-color: green;
+}
+
+body{
+    /* background-color: red; */
+}
